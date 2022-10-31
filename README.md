@@ -69,26 +69,26 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Buatlah kode program agar muncul gambar seperti di bawah ini 
 
-Print (' { : > 16 } '. format ( '* ' ))
+Print ( ' { : > 16 } '. format ( ' * ' ))
 
-Print (' { : > 17 } '. format ( ' * ' * 3 ))
+Print ( ' { : > 17 } '. format ( ' * ' * 3 ))
 
-Print (' { : > 18 } '. format ( ' * ' * 5 ))
+Print ( ' { : > 18 } '. format ( ' * ' * 5 ))
 
-Print (' { : > 19 } '. format ( ' * ' * 7 ))
+Print ( ' { : > 19 } '. format ( ' * ' * 7 ))
 
-Print (' { : > 20 } '. format ( ' * ' * 9 ))
+Print ( ' { : > 20 } '. format ( ' * ' * 9 ))
 
 
-Print (' { : > 20 } '. format ( ' * ' * 9 ))
+Print ( ' { : > 20 } '. format ( ' * ' * 9 ))
 
-Print (' { : > 19 } '. format ( ' * ' * 7 ))
+Print ( ' { : > 19 } '. format ( ' * ' * 7 ))
 
-Print (' { : > 18 } '. format ( ' * ' * 5 ))
+Print ( ' { : > 18 } '. format ( ' * ' * 5 ))
 
-Print (' { : > 17 } '. format ( ' * ' * 3 ))
+Print ( ' { : > 17 } '. format ( ' * ' * 3 ))
 
-Print (' { : > 16 } '. format ( ' * ' ))
+Print ( ' { : > 16 } '. format ( ' * ' ))
 
 ![gambar1](gambar/gambarbelahketupatcoding.png)
 
