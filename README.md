@@ -136,7 +136,7 @@ print("keliling lingkaran:",k)
 
 ![gambar1](gambar/gambarcodinglingkarann4.png)
 
-![gambar1](gambar/gambarcodinflingkarann5.png)
+![gambar1](gambar/gambarcodinglingkarann5.png)
 
 
 ###- Hasil kode program luas dan keliling lingkaran 
