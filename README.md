@@ -19,7 +19,7 @@ Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di ka
 
 ![gambar1](gambar/gambar6.png)
 
-### -String Format
+### - String Format
 
 Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
 
