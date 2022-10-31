@@ -39,7 +39,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Metode lama menggunakan placeholder menggunakan karakter '%'(modulo)'
 
-- Teknik yang menggunakan metode string.format()
+- Teknik yang menggunakan metode string. format()
 
 - Metode terbaru, baru saja di terbitkan oleh python 3.6, menggunakan string literal yang di format, disebut f-string
 
