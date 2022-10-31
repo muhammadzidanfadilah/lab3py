@@ -119,7 +119,7 @@ print("Keliling Lingkaran:",3)
 
 - Kita deklarasikan variabel pi = 3.14
 
-![gambar1](gambar/gambarluasdanlingkaran2.png)
+![gambar1](gambar/gambarluasdanlingkaran7.png)
 
 
 - Memasukan rumus luas dan keliling lingkaran 
