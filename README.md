@@ -160,7 +160,7 @@ print("keliling lingkaran:",k)
 
 - Dapat menjelaskan langkah langkah dalam setiap langkah yang saya lakukan pada  eksekusi program 
 
-- Dapat membuat flowchart dengan baik dan benar 
+- Dapat membuat flowchart dengan baik
 
 - Dapat mengoperasikan langsung kode program luas dan keliling lingkaran pada python
 
