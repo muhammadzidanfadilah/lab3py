@@ -134,7 +134,7 @@ print("Luas lingkaran:", 1)
 
 print("keliling lingkaran:",k)
 
-![gambar1](gambar/gambarluasdanlingkaran2.png)
+![gambar1](gambar/gambarluasdanlingkaran6.png)
 
 ![gambar1](gambar/gambarluasdanlingkaran5.png)
 
