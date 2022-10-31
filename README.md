@@ -11,7 +11,7 @@ Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter u
 ![gambar1](gambar/gambar5.png)
 
 
-###  - Penggunaan separator 
+###  - Penggunaan Separator 
 
 Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di kasih nilai
 
@@ -91,7 +91,7 @@ Print(' { : > 16 } '. format (' * '))
 
 ![gambar1](gambar/gambarbelahketupatcoding.png)
 
-### - Hasil yang di buat dalam kode program python
+### - Hasil Yang Di Buat Dalam Kode Program Python
 
 ![gambar1](gambar/gambarbelahketupat.png)
 
@@ -145,7 +145,7 @@ print("keliling lingkaran:",k)
 
 
 
-###  Flowchart lingkaran
+###  Flowchart Lingkaran
 
 
 ![gambar1](gambar/gambarflowchart3.png)
@@ -153,7 +153,7 @@ print("keliling lingkaran:",k)
 
 
 
-###  Praktikum 3 
+###  Hasil yang saya buat pada praktikum 3
 
 - Dengan ini saya cukup mengerti algoritma lingkaran yang di proses dalam python
 
