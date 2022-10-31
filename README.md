@@ -96,6 +96,7 @@ Print(' { : > 16 } '. format (' * '))
 ![gambar1](gambar/gambarbelahketupat.png)
 
 
+
 ###- Membuat kode program pada python untuk menghitung luas dan keliling lingkaran menggunakan python 
 
 r = input(" Masukan jari jari lingkaran:")
