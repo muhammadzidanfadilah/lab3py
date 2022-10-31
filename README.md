@@ -127,7 +127,7 @@ print("keliling lingkaran:",k)
 ###- Flowchart lingkaran
 
 
-![gambar1](gambar/gambarflowchartlingkaran.png)
+![gambar1](gambar/gambarflowchartlingkaran1.png)
 
 
 
