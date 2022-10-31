@@ -1,6 +1,6 @@
- # PROSES / LANGKAH - LANGKAH PRAKTIKUM 3
+# PROSES / LANGKAH - LANGKAH PRAKTIKUM 3
  
-## Latihan 1
+## LATIHAN 1
 
 ### - Penggunaan End 
 
@@ -43,7 +43,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Metode terbaru,baru saja di terbitkan oleh python 3.6,Menggunakan string literal yang di format,disebut f-string
 
-###- Latihan 2
+###- LATIHAN 2
 
 - pilih variable yang kita mau saya akan menggunakan dua variabel a dan b
 
@@ -65,7 +65,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 ![gambar1](gambar/gambarpy3.png)
 
-###- Latihan 3 
+###- LATIHAN 3 
 
 - Buatlah kode program agar muncul gambar seperti di bawah ini 
 
