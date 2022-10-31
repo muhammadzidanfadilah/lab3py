@@ -113,13 +113,13 @@ print("Keliling Lingkaran:",k)
 
 - Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 10
 
-![gambar1](gambar/gambarluasdanlingkaran1.png)
+![gambar1](gambar/gambarluasdanlingkarann1.png)
 
-![gambar1](gambar/gambarluasdanlingkaran4.png)
+![gambar1](gambar/gambarluasdanlingkarann2.png)
 
 - Kita deklarasikan variabel pi = 3.14
 
-![gambar1](gambar/gambarluasdanlingkaran7.png)
+![gambar1](gambar/gambarluasdanlingkarann3.png)
 
 
 - Memasukan rumus luas dan keliling lingkaran 
@@ -134,9 +134,9 @@ print("Luas lingkaran:", l)
 
 print("keliling lingkaran:",k)
 
-![gambar1](gambar/gambarluasdanlingkaran6.png)
+![gambar1](gambar/gambarluasdanlingkarann4.png)
 
-![gambar1](gambar/gambarluasdanlingkaran5.png)
+![gambar1](gambar/gambarluasdanlingkarann5.png)
 
 
 ###- Hasil kode program luas dan keliling lingkaran 
