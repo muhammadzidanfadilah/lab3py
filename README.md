@@ -2,7 +2,7 @@
  
 ## LATIHAN 1
 
-### - Penggunaan End 
+### - Penggunaan End  
 
 Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter untuk yang kita buat 
 
@@ -11,7 +11,7 @@ Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter u
 ![gambar1](gambar/gambar5.png)
 
 
-###- Penggunaan separator 
+###  - Penggunaan separator 
 
 Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di kasih nilai
 
@@ -19,7 +19,7 @@ Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di ka
 
 ![gambar1](gambar/gambar6.png)
 
-###-String Format
+### -String Format
 
 Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
 
@@ -27,15 +27,15 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 ![gambar1](gambar/gambar7.png)
 
-###- Contoh string concatenation
+### - Contoh string concatenation
 
 ![gambar1](gambar/gambar4.png)
 
 ![gambar1](gambar/gambar8.png)
 
-###- Yang di atas adalah contoh formating string 
+### - Yang di atas adalah contoh formating string 
 
-###- Ada tiga cara peformatan yaitu
+### - Ada tiga cara peformatan yaitu
 
 - Metode lama menggunakan placeholder menggunakan karakter '%'(modulo)'
 
@@ -43,11 +43,11 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Metode terbaru,baru saja di terbitkan oleh python 3.6,Menggunakan string literal yang di format,disebut f-string
 
-###- LATIHAN 2
+### - LATIHAN 2
 
 - pilih variable yang kita mau saya akan menggunakan dua variabel a dan b
 
-###- Beri inputkan pada variabel
+### - Beri inputkan pada variabel
 
 - Setelah di input masukan variabel yang telah di inputkan 
 - Lalu saya akan menggabungkan Variabel a dengan b dengan menggunakan formatting string
@@ -56,7 +56,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 ![gambar1](gambar/gambarpy1.png)
 
-###- Konversi nilai variabel
+### - Konversi nilai variabel
 
 - konversi yang saya masukan adalah nilai variabel yang masih kurang lebih sama yaitu 'String' pada 'Integer' 
 - Seusai itu kita harus menjumlahkan dan membagi dengan menggunakan seperti tadi yaitu menggunakan formatting string
@@ -65,7 +65,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 ![gambar1](gambar/gambarpy3.png)
 
-###- LATIHAN 3 
+### - LATIHAN 3 
 
 - Buatlah kode program agar muncul gambar seperti di bawah ini 
 
@@ -91,13 +91,13 @@ Print(' { : > 16 } '. format (' * '))
 
 ![gambar1](gambar/gambarbelahketupatcoding.png)
 
-###- Hasil yang di buat dalam kode program python
+### - Hasil yang di buat dalam kode program python
 
 ![gambar1](gambar/gambarbelahketupat.png)
 
 
 
-###- Membuat kode program pada python untuk menghitung luas dan keliling lingkaran menggunakan python 
+### - Membuat kode program pada python untuk menghitung luas dan keliling lingkaran menggunakan python 
 
 r = input(" Masukan jari jari lingkaran:")
 
@@ -139,13 +139,13 @@ print("keliling lingkaran:",k)
 ![gambar1](gambar/gambarcodinglingkarann5.png)
 
 
-###- Hasil kode program luas dan keliling lingkaran 
+### - Hasil kode program luas dan keliling lingkaran 
 
 ![gambar1](gambar/gambarcodinglingkarann.png)
 
 
 
-###- Flowchart lingkaran
+### - Flowchart lingkaran
 
 
 ![gambar1](gambar/gambarflowchart3.png)
@@ -153,7 +153,7 @@ print("keliling lingkaran:",k)
 
 
 
-###- Praktikum3 
+### - Praktikum3 
 
 - Dengan ini saya cukup mengerti algoritma lingkaran yang di proses dalam python
 
