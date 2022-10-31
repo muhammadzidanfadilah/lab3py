@@ -107,7 +107,7 @@ L = pi * int (r) * int(r)
 
 print(" Luas Lingkaran:", 1)
 
-print("Keliling Lingkaran:",3)
+print("Keliling Lingkaran:",k)
 
 
 
