@@ -91,7 +91,7 @@ Print(' { : > 16 } '. format (' * '))
 
 ![gambar1](gambar/gambarbelahketupatcoding.png)
 
-### - Hasil Yang Di Buat Dalam Kode Program Python
+### - Hasil yang di buat dalam kode program python
 
 ![gambar1](gambar/gambarbelahketupat.png)
 
