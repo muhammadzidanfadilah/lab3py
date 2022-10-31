@@ -111,7 +111,7 @@ print("Keliling Lingkaran:",k)
 
 
 
-- Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 20
+- Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 10
 
 ![gambar1](gambar/gambarluasdanlingkaran1.png)
 
@@ -130,7 +130,7 @@ Pi = 3.14
 
 K = 2 * pi * int(r)
 
-print("Luas lingkaran:", 1)
+print("Luas lingkaran:", l)
 
 print("keliling lingkaran:",k)
 
@@ -143,7 +143,6 @@ print("keliling lingkaran:",k)
 
 ![gambar1](gambar/gambarcodinglingkaran.png)
 
-![gambar1](gambar/gambarlingkaranhasil.png)
 
 
 ###- Flowchart lingkaran
