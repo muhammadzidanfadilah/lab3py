@@ -100,6 +100,7 @@ Print(' { : > 16 } '. format (' * '))
 ###- Membuat kode program pada python untuk menghitung luas dan keliling lingkaran menggunakan python 
 
 r = input(" Masukan jari jari lingkaran:")
+
 Pi = 3.14 
 
 L = pi * int (r) * int(r)
@@ -124,6 +125,8 @@ print("Keliling Lingkaran:",3)
 - Memasukan rumus luas dan keliling lingkaran 
 
 L = pi * int(r) * int(r)
+
+Pi = 3.14 
 
 K = 2 * pi * int(r)
 
