@@ -24,11 +24,13 @@ Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di ka
 Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
 
 ![gambar1](gambar/gambar3.png)
+
 ![gambar1](gambar/gambar7.png)
 
 ###- Contoh string concatenation
 
 ![gambar1](gambar/gambar4.png)
+
 ![gambar1](gambar/gambar8.png)
 
 ###- Yang di atas adalah contoh formating string 
@@ -49,6 +51,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Setelah di input masukan variabel yang telah di inputkan 
 - Lalu saya akan menggabungkan Variabel a dengan b dengan menggunakan formatting string
+
 ![gambar1](gambar/gambar9.png)
 
 ![gambar1](gambar/gambarpy1.png)
@@ -57,6 +60,7 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - konversi yang saya masukan adalah nilai variabel yang masih kurang lebih sama yaitu 'String' pada 'Integer' 
 - Seusai itu kita harus menjumlahkan dan membagi dengan menggunakan seperti tadi yaitu menggunakan formatting string
+
 ![gambar1](gambar/gambarpy2.png)
 
 ![gambar1](gambar/gambarpy3.png)
@@ -64,16 +68,25 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 ###- Latihan 3 
 
 - Buatlah kode program agar muncul gambar seperti di bawah ini 
+
 Print(' { : > 16 } '. format (' * '))
+
 Print(' { : > 17 } '. format (' * ' * 3))
+
 Print(' { : > 18 } '. format (' * ' * 5))
+
 Print(' { : > 19 } '. format (' * ' * 7))
+
 Print(' { : > 20 } '. format (' * ' * 9))
 
 Print(' { : > 20 } '. format (' * ' * 9))
+
 Print(' { : > 19 } '. format (' * ' * 7))
+
 Print(' { : > 18 } '. format (' * ' * 5))
+
 Print(' { : > 17 } '. format (' * ' * 3))
+
 Print(' { : > 16 } '. format (' * '))
 
 ![gambar1](gambar/gambarbelahketupatcoding.png)
@@ -87,15 +100,17 @@ Print(' { : > 16 } '. format (' * '))
 
 r = input(" Masukan jari jari lingkaran:")
 Pi = 3.14 
+
 L = pi * int (r) * int(r)
 
 print(" Luas Lingkaran:", 1)
+
 print("Keliling Lingkaran:",3)
 
 
 
 - Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 20
-- 
+
 ![gambar1](gambar/gambarluasdanlingkaran1.png)
 
 ![gambar1](gambar/gambarluasdanlingkaran4.png)
@@ -106,10 +121,13 @@ print("Keliling Lingkaran:",3)
 
 
 - Memasukan rumus luas dan keliling lingkaran 
+
 L = pi * int(r) * int(r)
+
 K = 2 * pi * int(r)
 
 print("Luas lingkaran:", 1)
+
 print("keliling lingkaran:",k)
 
 ![gambar1](gambar/gambarluasdanlingkaran2.png)
