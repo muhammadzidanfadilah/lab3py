@@ -153,7 +153,7 @@ print("keliling lingkaran:",k)
 
 
 
-###  Praktikum3 
+###  Praktikum 3 
 
 - Dengan ini saya cukup mengerti algoritma lingkaran yang di proses dalam python
 
