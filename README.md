@@ -130,7 +130,9 @@ print("keliling lingkaran:",k)
 ![gambar1](gambar/gambarflowchartlingkaran.png)
 
 
-###- Praktikum 3 
+
+
+###- Praktikum3 
 
 - Dengan ini saya cukup mengerti algoritma lingkaran yang di proses dalam python
 
@@ -139,3 +141,7 @@ print("keliling lingkaran:",k)
 - Dapat membuat flowchart dengan baik dan benar 
 
 - Dapat mengoperasikan langsung kode program luas dan keliling lingkaran pada python
+
+
+
+
